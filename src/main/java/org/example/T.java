@@ -2,5 +2,5 @@ package org.example;
 
 public class T {
 
-    private String name2;
+    private String name1;
 }
