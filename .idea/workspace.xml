@@ -27,7 +27,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="KEEP" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -290,7 +290,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733900713458</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900760441</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900760441</updated>
+    </task>
+    <task id="LOCAL-00029" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900777677</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900777677</updated>
+    </task>
+    <task id="LOCAL-00030" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733901048040</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1733901048040</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
