@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e0205c9-9f17-4550-8131-6d226efd8733" name="更改" comment="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +23,11 @@
     <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
+    <option name="RESET_MODE" value="KEEP" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -46,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -202,7 +202,95 @@
       <option name="project" value="LOCAL" />
       <updated>1733316113974</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900426145</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900426145</updated>
+    </task>
+    <task id="LOCAL-00018" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900467572</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900467572</updated>
+    </task>
+    <task id="LOCAL-00019" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900472713</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900472713</updated>
+    </task>
+    <task id="LOCAL-00020" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900479823</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900479823</updated>
+    </task>
+    <task id="LOCAL-00021" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900485574</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900485574</updated>
+    </task>
+    <task id="LOCAL-00022" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900604040</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900604040</updated>
+    </task>
+    <task id="LOCAL-00023" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900631990</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900631990</updated>
+    </task>
+    <task id="LOCAL-00024" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900652819</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900652819</updated>
+    </task>
+    <task id="LOCAL-00025" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900682807</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900682807</updated>
+    </task>
+    <task id="LOCAL-00026" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900699849</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900699849</updated>
+    </task>
+    <task id="LOCAL-00027" summary="mian-1-2&#10;&#10;&#10;(cherry picked from commit 2e5a3d2fea52ec17349ad86753d5dd4c34c9bac5)">
+      <option name="closed" value="true" />
+      <created>1733900713458</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900713458</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

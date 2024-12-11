@@ -1,4 +1,4 @@
 package org.example;
 
-public class T2 {
+public interface T2 {
 }
