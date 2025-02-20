@@ -2,6 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-      System.out.println("Hello world!1222662232322131111236223");
+      System.out.println("Hello world!122266223232213111121136223");
     }
 }
